@@ -7,6 +7,8 @@ Implement an iterator of a list of integers nums where
 
 **Constraints:** `n ≤ 100,000` where `n` is the number of calls to `peek`, `next` and `hasnext`
 
+**Link:** https://binarysearch.com/problems/Peekable-Iterator
+
 ## Solution
 
 ```python
