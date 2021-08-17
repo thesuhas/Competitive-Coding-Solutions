@@ -28,6 +28,6 @@ class Solution:
 
 ## Approach
 
-Traverse `heights` from **right to left**. Check if `heights[i]`, i.e., the current building, is the tallest building so far. If yes, add `i` to the required list of buildings and also update the height of the tallest bui;ding encountered so far, which is `s`.
+Traverse `heights` from **right to left**. Check if `heights[i]`, i.e., the current building, is the tallest building so far. If yes, add `i` to the required list of buildings and also update the height of the tallest building encountered so far, which is `s`.
 
 **Time Efficiency**: _O(n)_
