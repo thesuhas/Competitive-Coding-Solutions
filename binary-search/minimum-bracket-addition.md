@@ -6,7 +6,7 @@ Given a string s containing brackets `(` and `)`, return the minimum number of b
 
 **Link:** https://binarysearch.com/problems/Minimum-Bracket-Addition
 
-**Difficulty:** <span style="color: green">Easy</span>
+**Difficulty:** :green_circle: Easy
 
 ## Solution
 
