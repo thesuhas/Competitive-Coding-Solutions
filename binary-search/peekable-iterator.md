@@ -9,6 +9,8 @@ Implement an iterator of a list of integers nums where
 
 **Link:** https://binarysearch.com/problems/Peekable-Iterator
 
+**Difficulty:** :yellow_circle: Easy
+
 ## Solution
 
 ```python

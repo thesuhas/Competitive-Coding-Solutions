@@ -6,6 +6,8 @@ You are given a list of integers heights representing building heights. A buildi
 
 **Link:** https://binarysearch.com/problems/Unobstructed-Buildings
 
+**Difficulty:** :green_circle: Easy
+
 ## Solution
 
 ```python

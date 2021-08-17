@@ -8,7 +8,7 @@ Given a singly linked list node, return its reverse.
 
 **Link:** https://binarysearch.com/problems/Reverse-a-Linked-List
 
-**Difficulty:** <span style="color: yellow">Medium</span>
+**Difficulty:** :yellow_circle: Medium
 
 ## Solution
 
