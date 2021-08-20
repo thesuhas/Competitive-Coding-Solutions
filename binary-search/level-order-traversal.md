@@ -49,7 +49,7 @@ class Solution:
 
 ## Approach
 
-Used BFS to do Level Order Traversal. 
+Used BFS to do Level Order Traversal. <br>
 [Reading Material](https://www.geeksforgeeks.org/level-order-tree-traversal/)
 
 **Time Efficiency:** _O(n)_ where `n` is the number of `nodes` in `root`
