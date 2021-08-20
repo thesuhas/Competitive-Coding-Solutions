@@ -32,7 +32,7 @@ Initialise a `count` variable to keep track of all the substrings that meet the 
 
 For a given starting character of a substring, if it is a `"0"`, it fails the required conditions.<br>
 
-For a given ending character of a substring, if it is a `"0"`, the substring and all strings that this is a substring of fail the required conditions.<br>
+For a given ending character of a substring, if it is a `"0"`, the substring and all strings (of same and greater lengths) that this string is a substring of, will fail the required conditions.<br>
 
 [Beautiful Solution](https://binarysearch.com/problems/Count-Substrings-With-All-1s/solutions/3431898)
 
