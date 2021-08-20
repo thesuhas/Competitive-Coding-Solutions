@@ -34,4 +34,4 @@ For a given starting character of a substring, if it is a `"0"`, it fails the re
 
 For a given ending character of a substring, if it is a `"0"`, the substring and all strings that this is a substring of fail the required conditions.<br>
 
-**Time Efficiency:** _O(n<sup>2</sup>)_ as there are two nested loops looking at each possible starting and ending character combination.
+**Time Efficiency:** _O(n<sup>2</sup>)_ as there are two nested loops looking at each possible start and end character combinations to generate all the substrings.
