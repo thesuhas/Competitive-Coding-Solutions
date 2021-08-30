@@ -20,4 +20,4 @@ class Solution:
 ## Approach
 
 Every unique letter can be stored in every **spot**. The number of spots are `k/2` as a palindrome is a mirror.<br>
-At every **spot**, `no of possible characters = no of unique characters`. Hence, you multiply `no of unique characters` with itself **spot** times.
+At every **spot**, `no of possible characters = no of unique characters`. <br>Hence, you multiply `no of unique characters` with itself **spot** times.
